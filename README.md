@@ -96,7 +96,7 @@ Key Components:
 
 > ✅ Fully interactive, filterable, and designed for quick executive insights.
 
-📸   *Final dashboard output: 
+📸   *Final dashboard output: https://github.com/pataneliaz/SalesDashboard/blob/main/Sales%20Dashboard.png
 
 
 ---
