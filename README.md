@@ -126,6 +126,6 @@ Key Components:
 
 **Eliaz Patan**  
 📧 eliazpatan846@gmail.com  
-🔗 linkedin.com/in/patan-eliaz-ahmed-khan-22781822b
+🔗https://www.linkedin.com/in/patan-eliaz-ahmed-khan-22781822b
 ---
 
